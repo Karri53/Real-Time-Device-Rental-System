@@ -1,4 +1,5 @@
-Real-Time-Device-Rental-System
+# Real-Time-Device-Rental-System
+
 A full-stack web application designed for managing real-time reservations and access control for device rentals. Built with a focus on transactional integrity, system security, and role-based access.
 
 Features
